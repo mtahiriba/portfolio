@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'ShareMe'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/mtahiriba/Share_Me'
+external: 'https://meek-kringle-4fb032.netlify.app/'
 tech:
   - React
-  - Styled Components
+  - Tailwind CSS
+  - Node
   - Express
-  - Spotify API
-  - Heroku
+  - Google Login
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Web-based application that allows users to share their pictures and save pictures from others, like Pinterest. The application requires users to log in with their email to access the platform.

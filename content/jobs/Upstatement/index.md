@@ -1,13 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-01-01'
+title: 'MERN Stack Developer'
+company: 'AIMs Technologies'
+location: 'Virtual'
+range: 'Jan 2022 - July 2022'
+url: 'https://aimtech.pk/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Deliver high-quality, robust production code for a diverse array of projects for clients including below products.
+- School Management System MERN Based, Deployed to Many Local Schools [thelearniumschools.com],
+- Website and Ordering App for Café Al Manzar Khairpur Restaurant, that includes responsible for creating APIs, resolving existing bugs, and Following agile methodology.
