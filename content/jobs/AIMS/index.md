@@ -3,7 +3,7 @@ date: '2022-01-01'
 title: 'MERN Stack Developer'
 company: 'AIMs Technologies'
 location: 'Virtual'
-range: 'Jan 2022 - July 2022'
+range: 'Jan 2022 - Dec 2022'
 url: 'https://aimtech.pk/'
 ---
 

@@ -125,7 +125,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Node.js', 'Express.js','Next.js', 'Tailwind CSS', 'Bootstrap'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Node.js',
+    'Express.js',
+    'Next.js',
+    'Tailwind CSS',
+    'Bootstrap',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,24 +144,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Muhammad Tahir and I enjoy creating web applications that live on the internet. My
-              interest in web development started back in 2019 when I decided to try editing custom
-              web Applications from scrach — that taught me a lot
-              about HTML, CSS, &amp; JavaScript!
+              Hello! My name is Muhammad Tahir and I enjoy creating web applications that live on
+              the internet. My interest in web development started back in 2019 when I decided to
+              try editing custom web Applications from scrach — that taught me a lot about HTML,
+              CSS, &amp; JavaScript!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I am a skilled software developer with expertise in a range of front-end and back-end
+              technologies. My experience includes building dynamic, responsive web applications
+              using React, Redux, and Tailwind CSS, as well as developing robust back-end systems
+              using NodeJS and Express.
             </p>
-
-            
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
