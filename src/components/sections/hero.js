@@ -60,13 +60,17 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Muhammad Tahir.</h2>;
-  const three = <h3 className="big-heading">MERN Stack Developer.</h3>;
+  const two = <h2 className="big-heading">Muhammad Tahir</h2>;
+  const three = <h3 className="big-heading">Full Stack Developer</h3>;
   const four = (
     <>
       <p>
-      I am a skilled software developer with expertise in a range of front-end and back-end technologies. My experience includes building dynamic, responsive web applications using {' '}
-        <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer">
+        I am a skilled software developer with expertise in a range of front-end and back-end
+        technologies. My experience includes building dynamic, responsive web applications using{' '}
+        <a
+          href="https://legacy.reactjs.org/docs/getting-started.html"
+          target="_blank"
+          rel="noreferrer">
           React
         </a>
         .
