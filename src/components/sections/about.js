@@ -127,13 +127,13 @@ const About = () => {
 
   const skills = [
     'JavaScript (ES6+)',
-    'TypeScript',
     'React',
+    'TypeScript',
     'Node.js',
+    'Tailwind CSS',
     'Express.js',
     'Next.js',
-    'Tailwind CSS',
-    'Bootstrap',
+    'MongoDB',
   ];
 
   return (
@@ -151,10 +151,11 @@ const About = () => {
             </p>
 
             <p>
-              I am a skilled software developer with expertise in a range of front-end and back-end
-              technologies. My experience includes building dynamic, responsive web applications
-              using React, Redux, and Tailwind CSS, as well as developing robust back-end systems
-              using NodeJS and Express.
+              Experienced full-stack developer with a strong track record of designing and
+              implementing end-to-end web applications. Proficient in both frontend and back-end
+              technologies, adept at creating responsive user interfaces and scalable server-side
+              solutions. Skilled in a wide range of programming languages and frameworks, dedicated
+              to delivering high-quality, efficient, and user-friendly software products.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -6,7 +6,7 @@ github: 'https://github.com/mtahiriba/easeweb-builder'
 external: ''
 tech:
   - React
-  - Typecript
+  - TypeSript
   - Tailwind CSS
   - Node
   - Express

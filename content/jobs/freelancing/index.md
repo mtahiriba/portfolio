@@ -1,10 +1,10 @@
 ---
 date: '2022-01-01'
-title: 'Front-End Developer'
+title: 'Full Stack Developer'
 company: 'Freelancing'
 location: 'Virtual'
 range: 'March 2022 - Present'
-url: ''
+url: 'https://www.fiverr.com/'
 ---
 
 - ShareMe web Application that allow users to share their pictures and save pictures from others, like Pinterest,

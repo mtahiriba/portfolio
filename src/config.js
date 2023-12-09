@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'memontahirmuhammad@gmail.com',
+  email: 'tahirjs.dev@gmail.com',
 
   socialMedia: [
     {
@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/tahirr.memon/',
+      url: 'https://www.instagram.com/muh___tahir/',
     },
     {
       name: 'Twitter',
@@ -17,10 +17,6 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/tahir-memon/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
     },
   ],
 
