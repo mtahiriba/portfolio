@@ -2,8 +2,8 @@
 date: '3'
 title: 'FunOlympic'
 cover: './course-card.png'
-external: 'https://lustrous-moxie-eb2a78.netlify.app/'
 cta: 'https://github.com/mtahiriba/FunOlympic'
+external: 'https://fun-olympic-gray.vercel.app/'
 tech:
   - React
   - Tailwind CSS
