@@ -80,7 +80,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.linkedin.com/in/tahir-memon/"
+      href="https://www.linkedin.com/in/tahir-developer/"
       target="_blank"
       rel="noreferrer">
       Check out my LinkedIn!

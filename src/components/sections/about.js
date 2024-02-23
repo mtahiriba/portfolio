@@ -56,14 +56,19 @@ const StyledPic = styled.div`
   }
 
   .wrapper {
-    ${({ theme }) => theme.mixins.boxShadow};
+    /* ${({ theme }) => theme.mixins.boxShadow}; */
     display: block;
     position: relative;
     width: 100%;
-    border-radius: var(--border-radius);
-    background-color: var(--green);
+    /* border-radius: var(--border-radius); */
+    /* background-color: var(--green); */
 
-    &:hover,
+    @media (min-width: 768px) {
+      width: 380px;
+      margin-top: -50px;
+    }
+
+    /* &:hover,
     &:focus {
       outline: 0;
       transform: translate(-4px, -4px);
@@ -76,7 +81,7 @@ const StyledPic = styled.div`
         filter: none;
         mix-blend-mode: normal;
       }
-    }
+    } */
 
     .img {
       position: relative;
@@ -100,12 +105,12 @@ const StyledPic = styled.div`
     &:before {
       top: 0;
       left: 0;
-      background-color: var(--navy);
+      /* background-color: var(--navy); */
       mix-blend-mode: screen;
     }
 
     &:after {
-      border: 2px solid var(--green);
+      /* border: 2px solid var(--green); */
       top: 14px;
       left: 14px;
       z-index: -1;
@@ -170,7 +175,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               // className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
