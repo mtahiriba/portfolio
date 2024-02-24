@@ -67,52 +67,28 @@ const StyledCredit = styled.div`
   }
 `;
 
-const Footer = () => 
-// const [githubInfo, setGitHubInfo] = useState({
-//   stars: null,
-//   forks: null,
-// });
+const Footer = () => (
+  <StyledFooter>
+    <StyledSocialLinks>
+      <ul>
+        {socialMedia &&
+          socialMedia.map(({ name, url }, i) => (
+            <li key={i}>
+              <a href={url} aria-label={name}>
+                <Icon name={name} />
+              </a>
+            </li>
+          ))}
+      </ul>
+    </StyledSocialLinks>
 
-// useEffect(() => {
-//   if (process.env.NODE_ENV !== 'production') {
-//     return;
-//   }
-//   fetch('https://api.github.com/repos/bchiang7/v4')
-//     .then(response => response.json())
-//     .then(json => {
-//       const { stargazers_count, forks_count } = json;
-//       setGitHubInfo({
-//         stars: stargazers_count,
-//         forks: forks_count,
-//       });
-//     })
-//     .catch(e => console.error(e));
-// }, []);
-
-  (
-    <StyledFooter>
-      <StyledSocialLinks>
-        <ul>
-          {socialMedia &&
-            socialMedia.map(({ name, url }, i) => (
-              <li key={i}>
-                <a href={url} aria-label={name}>
-                  <Icon name={name} />
-                </a>
-              </li>
-            ))}
-        </ul>
-      </StyledSocialLinks>
-
-      <StyledCredit tabindex="-1">
-        {/* <a href="https://github.com/bchiang7/v4"> */}
+    <StyledCredit tabindex="-1">
+      <a href="https://github.com/mtahiriba/portfolio">
         <div>Designed &amp; Built by Muhammad Tahir</div>
-        {/* </a> */}
-      </StyledCredit>
-    </StyledFooter>
-  )
-;
-
+      </a>
+    </StyledCredit>
+  </StyledFooter>
+);
 Footer.propTypes = {
   githubInfo: PropTypes.object,
 };
