@@ -2,7 +2,7 @@
 date: '2016-11-01'
 title: 'Travel Advisor'
 github: ''
-external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
+external: 'https://my-travel-advisor-blue.vercel.app/login'
 android: ''
 tech:
   - Next.js

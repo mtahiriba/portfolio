@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'ShareMe'
 cover: './demo.png'
 github: 'https://github.com/mtahiriba/Share_Me'
