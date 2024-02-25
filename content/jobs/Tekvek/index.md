@@ -1,5 +1,5 @@
 ---
-date: '2022-01-01'
+date: '2024-08-27'
 title: 'Software Engineer'
 company: 'Tekvek'
 location: 'Karachi, Sindh, Pakistan'

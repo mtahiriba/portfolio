@@ -3,7 +3,7 @@ date: '2022-01-01'
 title: 'Full Stack Developer'
 company: 'Freelancing'
 location: 'Virtual'
-range: 'March 2022 - Present'
+range: 'March 2022 - present'
 url: 'https://www.fiverr.com/'
 ---
 
