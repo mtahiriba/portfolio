@@ -1,8 +1,8 @@
 ---
 date: '2023-08-07'
-title: 'EaseWeb - Easy website builder'
+title: 'EaseWeb'
 github: 'https://github.com/mtahiriba/easeweb-builder'
-# external: 'https://github.com/mtahiriba/easeweb-builder'
+external: 'https://github.com/mtahiriba/easeweb-builder'
 tech:
   - React
   - TypeScript
