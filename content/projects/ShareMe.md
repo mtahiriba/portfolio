@@ -1,5 +1,5 @@
 ---
-date: '2016-11-01'
+date: '2024-02-19'
 title: 'Share Me'
 github: 'https://github.com/mtahiriba/Share_Me'
 external: 'https://share-me-beryl.vercel.app/'

@@ -1,5 +1,5 @@
 ---
-date: '2024-02-25'
+date: '2024-02-18'
 title: 'Promptly Hub'
 github: 'https://github.com/mtahiriba/promptly'
 external: 'https://promptly-hub-ai.vercel.app/'
