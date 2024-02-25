@@ -4,11 +4,11 @@ title: 'EaseWeb'
 github: 'https://github.com/mtahiriba/easeweb-builder'
 external: 'https://github.com/mtahiriba/easeweb-builder'
 tech:
-  - React
+  - React.js
   - TypeScript
   - Tailwind CSS
-  - Node
-  - Express
+  - Node.js
+  - Express.js
 company: 'Sukkur IBA'
 showInProjects: true
 ---

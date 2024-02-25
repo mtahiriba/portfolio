@@ -1,7 +1,7 @@
 ---
 date: '2024-02-25'
 title: 'Promptly Hub'
-github: ''
+github: 'https://github.com/mtahiriba/promptly'
 external: 'https://promptly-hub-ai.vercel.app/'
 ios: ''
 tech:
@@ -9,7 +9,7 @@ tech:
   - Next Outh
   - Tailwind CSS
   - MongoDB
-company: ''
+company: 'Tekvek'
 showInProjects: true
 ---
 

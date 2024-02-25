@@ -5,7 +5,7 @@ cover: './demo.png'
 github: 'https://github.com/mtahiriba/Share_Me'
 external: 'https://share-me-beryl.vercel.app/'
 tech:
-  - React
+  - React.js
   - Tailwind CSS
   - Google Login
 ---
